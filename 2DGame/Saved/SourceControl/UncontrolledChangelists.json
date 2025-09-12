@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/MainMap.umap",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/Maps/MainMap.umap",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/Textures/background.uasset",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/BluePrints/BP_PlayerPawn.uasset",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/Textures/background_Sprite.uasset",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/Textures/playerShip3_blue.uasset",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/Textures/enemyBlack2.uasset",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/Textures/laserRed02.uasset",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/Textures/playerShip3_blue_Sprite.uasset",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/BluePrints/BP_PlayerPawnSpace.uasset",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/BluePrints/BP_GameModeSpace.uasset",
+				"C:/Users/chuck/OneDrive/Documents/Unreal Projects/MyProject2/Content/BluePrints/BP_PlayerControllerSpace.uasset"
+			]
+		}
+	]
+}
